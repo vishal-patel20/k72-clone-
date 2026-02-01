@@ -3,7 +3,7 @@ import Home from './Pages/Home'
 import Agence from './Pages/Agence'
 import {Routes,Route}  from "react-router-dom"
 import Projects from './Pages/Projects'
-import Navbar from './Component/Navbar/navbar'
+import Navbar from './Component/Navbar/Navbar'
 import FullName from './Component/Navbar/FullScreenNav'
 import NavContext from './Component/context/Navcontext'
 
